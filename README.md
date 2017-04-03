@@ -1,1 +1,2 @@
-# udemy_ds
+# Solved Jupyter Notebooks from Udemy Data Science certification
+
